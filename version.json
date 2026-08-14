@@ -1,0 +1,7 @@
+{
+  "versionCode": 7,
+  "versionName": "0.4.1",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.1/app-debug.apk",
+  "sha256": "6332A4C2754C8326A3014767498F5073147C31EFB1ABF7C7B4BE4DAC45A938B1",
+  "notes": "Primeira versão preparada para o sistema de atualização remota da NEXTv."
+}
