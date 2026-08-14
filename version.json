@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.2",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.2/app-debug.apk",
-  "sha256": "EF660A7F134AE14655BD3A4C1080936D5B1845EEC565B7123079102297D0A04F",
-  "notes": "Atualização NEXTv v0.4.2."
+  "versionCode": 9,
+  "versionName": "0.4.3",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.3/app-debug.apk",
+  "sha256": "CAD22E168DE811C0EDBA459C19B74C0C63908490E674583C07DA2BA27B81BA33",
+  "notes": "Homologação do atualizador remoto NEXTv v0.4.3."
 }
