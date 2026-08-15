@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "0.4.4",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.4/app-debug.apk",
-    "sha256":  "98937E20E49ABE0F662E5E5C079B697FBE00FADADB48F5A691648B4AB4A5303D",
-    "notes":  "Corrige Voltar e Escape, categorias de Filmes e Series e duplo OK nos Favoritos."
+    "versionCode":  11,
+    "versionName":  "0.4.5",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.5/app-debug.apk",
+    "sha256":  "0391E59E7C838A6BBEF3A9258EBEB6C6781FA027FFEA4C7597A36EDAE80D950A",
+    "notes":  "Adiciona cache local, abertura não bloqueante e correções do teclado e do botão Voltar."
 }
