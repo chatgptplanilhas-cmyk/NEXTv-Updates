@@ -1,7 +1,7 @@
 {
-    "versionCode":  11,
-    "versionName":  "0.4.5",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.5/app-debug.apk",
-    "sha256":  "0391E59E7C838A6BBEF3A9258EBEB6C6781FA027FFEA4C7597A36EDAE80D950A",
-    "notes":  "Adiciona cache local, abertura não bloqueante e correções do teclado e do botão Voltar."
+    "versionCode":  12,
+    "versionName":  "0.4.6",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.6/app-debug.apk",
+    "sha256":  "211F3A29A6C8DC7840134EFCD0FAA6B197B7EAADA9EE7952459AB4D2E0326F0C",
+    "notes":  "Nova Home oficial do NEXTv, com barra superior, novo Hero, novos cards e navegação por controle remoto."
 }
