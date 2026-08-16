@@ -1,7 +1,7 @@
 {
-    "versionCode":  12,
-    "versionName":  "0.4.6",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.6/app-debug.apk",
-    "sha256":  "211F3A29A6C8DC7840134EFCD0FAA6B197B7EAADA9EE7952459AB4D2E0326F0C",
-    "notes":  "Nova Home oficial do NEXTv, com barra superior, novo Hero, novos cards e navegação por controle remoto."
+    "versionCode":  13,
+    "versionName":  "0.4.7",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.7/app-debug.apk",
+    "sha256":  "E63CB498ED8F69534FB62C42159D5F6DD311085B08B40A3A1716F02592C7412B",
+    "notes":  "Correção visual da Home conforme interface oficial homologada."
 }
