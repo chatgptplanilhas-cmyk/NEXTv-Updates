@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.5.6",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.6/app-debug.apk",
-  "sha256": "5C1CD358022B6E1E31EB8D75AB4809A70B9F425F9D8F7D6F664E19F7D7D33851",
-  "notes": "Refina foco e seleção em Favoritos, OSD e rail Liquid Black."
+  "versionCode": 23,
+  "versionName": "0.5.7",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.7/app-debug.apk",
+  "sha256": "687FA50E0F566BB7CF54480EB08D5110389B5CB3DA81A97D0D6A21A984F36C75",
+  "notes": "Corrige corte da programação no Preview e estabiliza o fluxo de Back."
 }
