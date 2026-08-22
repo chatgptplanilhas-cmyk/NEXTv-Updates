@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "0.5.8",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.8/app-debug.apk",
-  "sha256": "3DEFE9099C300E366505B00A421F30D9D37A80805715B761F230A6C92BD8C7BD",
-  "notes": "Centraliza navegação D-pad e Back e corrige OK longo para Favoritos."
+  "versionCode": 25,
+  "versionName": "0.5.9",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9/app-debug.apk",
+  "sha256": "8780F1F019DB79853CDC76CAEA7F6DAD5103FE3A2A194F1398EABCA4A4F3FABF",
+  "notes": "Corrige crash no Back e preserva volume no fullscreen."
 }
