@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "0.5.9.14",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.14/app-debug.apk",
-  "sha256": "EBD82FCF6F47AE66C45CD63599E622B41E34790C03A9D4DAFC79CFC892E9C738",
-  "notes": "Refina o Ao Vivo com categorias em uma linha, canais compactos e Preview 16:9 com vídeo real."
+  "versionCode": 40,
+  "versionName": "0.5.9.15",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.15/app-debug.apk",
+  "sha256": "344E61D959C977930D982F8398AFA58DA7C76E6E2BE27551F29891B9E0B8FB4A",
+  "notes": "Corrige o Ao Vivo: navegação contínua nas categorias, carregamento por cache quando disponível e preview com inicialização funcional."
 }
