@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "0.5.9.16",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.16/app-debug.apk",
-  "sha256": "7E3B0768EBF3D44C3E41E0222B90FDC4E19F76093ACD46399A859D2835B06C10",
-  "notes": "Refina o Ao Vivo com preview maior, canais mais compactos, transição visual mais fluida e retomada do preview após voltar do Player."
+  "versionCode": 42,
+  "versionName": "0.5.9.17",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.17/app-debug.apk",
+  "sha256": "10427781D85B37D1FC0C3B2ABA4AC52EBB0D3044BE9474768B01E54B270C8740",
+  "notes": "Corrige a troca de categorias no Ao Vivo e integra EPG real no Preview com programa atual, horário, progresso, próximo programa e descrição."
 }
