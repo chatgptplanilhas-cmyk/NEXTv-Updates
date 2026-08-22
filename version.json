@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.5.5",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.5/app-debug.apk",
-  "sha256": "6B1798D2CAF95777803600B2BA5BEF9F6CF78EE57C295F83A391133388806C81",
-  "notes": "Refina preview, sincronização de canal e comportamento do Liquid Black."
+  "versionCode": 22,
+  "versionName": "0.5.6",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.6/app-debug.apk",
+  "sha256": "5C1CD358022B6E1E31EB8D75AB4809A70B9F425F9D8F7D6F664E19F7D7D33851",
+  "notes": "Refina foco e seleção em Favoritos, OSD e rail Liquid Black."
 }
