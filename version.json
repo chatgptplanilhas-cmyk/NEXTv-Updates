@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "0.5.9.12",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.12/app-debug.apk",
-  "sha256": "09DCCEBF90226DC6E2C071BC3EA1A7201E235B2F71728F190A50CC7FB0A71EB3",
-  "notes": "Adiciona OK longo com modal no Ao Vivo e corrige navegação contínua por D-pad nas categorias/canais."
+  "versionCode": 38,
+  "versionName": "0.5.9.13",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.13/app-debug.apk",
+  "sha256": "F1EAE77002A2A36FA809618A230AD98FD2FF9CF5E91B2F2D746F80B093BADE3F",
+  "notes": "Refina o Ao Vivo com navegação contínua por D-pad, carregamento apenas da categoria final e lista de canais mais compacta."
 }
