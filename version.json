@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "0.5.9.02",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.02/app-debug.apk",
-  "sha256": "5E4DD32A061776EB742DDFFB8BA426F01C08697CA1AAB38E6FB98C53E98CF48E",
-  "notes": "Adiciona diagnóstico interno do Back para capturar o fechamento real."
+  "versionCode": 28,
+  "versionName": "0.5.9.03",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.03/app-debug.apk",
+  "sha256": "601D464AF8802628F05047E9806829C99DB9D720C729F6F7565BB6EE1EFFCB2F",
+  "notes": "Adiciona área Admin/Diagnóstico e coleta interna de falhas no Back."
 }
