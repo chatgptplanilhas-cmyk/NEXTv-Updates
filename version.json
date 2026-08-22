@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.5.9.10",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.10/app-debug.apk",
-  "sha256": "82C922576BF9473200A2423A6C52FF81F293744FCCDD28318882975C02FA8BD8",
-  "notes": "Corrige o fluxo de OK longo em Favoritos e aprimora o Admin/Diagnóstico para navegação por controle remoto."
+  "versionCode": 36,
+  "versionName": "0.5.9.11",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.11/app-debug.apk",
+  "sha256": "0523641FB035061058FF5EA142ECA6BB7DC33C52229F25B942475DB7DD16B215",
+  "notes": "Adiciona confirmação por modal no OK longo em Favoritos e relatório de suporte com QR Code no Admin/Diagnóstico."
 }
