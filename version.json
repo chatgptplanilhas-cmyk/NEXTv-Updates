@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "0.5.9",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9/app-debug.apk",
-  "sha256": "8780F1F019DB79853CDC76CAEA7F6DAD5103FE3A2A194F1398EABCA4A4F3FABF",
-  "notes": "Corrige crash no Back e preserva volume no fullscreen."
+  "versionCode": 26,
+  "versionName": "0.5.9.01",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.01/app-debug.apk",
+  "sha256": "58D33116BB1AD721E06D1DD32E2E037334D4A4406027E7F827730B53D4930898",
+  "notes": "Centraliza o Back em uma máquina de estado única e corrige fechamento indevido."
 }
