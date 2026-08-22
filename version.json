@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "0.5.9.18",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.18/app-debug.apk",
-  "sha256": "256F3FA5DE3551FA75AA6C0779F0D204A0F3A220701B3E0E536964AA5B8D0138",
-  "notes": "Alinha o Ao Vivo ao padrão real de Favoritos: estabilização de foco, transição do Preview no primeiro frame, loading suave, tipografia refinada e EPG compacto."
+  "versionCode": 44,
+  "versionName": "0.5.9.19",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.19/app-debug.apk",
+  "sha256": "170E6A6BAE9E5269DAD71B285A548797EB38A687D85C85A770F53DC3C0D4A460",
+  "notes": "Corrige o fluxo do Ao Vivo: entrada sem Preview, categorias alteram apenas a lista, navegação nos canais não inicia reprodução e o primeiro OK passa a abrir somente o Preview."
 }
