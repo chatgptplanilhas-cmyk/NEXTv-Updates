@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.4.8",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.8/app-debug.apk",
-  "sha256": "16E5D88B235014A2B781890BA55E561A936F9C8650F4F552D50DCBBE75D2EFCB",
-  "notes": "Exibe a versão instalada em Configurações."
+  "versionCode": 15,
+  "versionName": "0.4.9",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.4.9/app-debug.apk",
+  "sha256": "600D7B660211D958F20D6CB7DEE90D63B1E6A83A136423EB5C706BAAA4CA2A35",
+  "notes": "Corrige retorno do player para o preview em Favoritos."
 }
