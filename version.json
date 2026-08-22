@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.5.9.05",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.05/app-debug.apk",
-  "sha256": "48F0C3896D8FAE0B06B666DCBF373B2A7DBC73973EBD0A3612D2E6DCA2944337",
-  "notes": "Refina Admin/Diagnóstico e estabilidade visual do foco em Configurações."
+  "versionCode": 31,
+  "versionName": "0.5.9.06",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.06/app-debug.apk",
+  "sha256": "9AB9B4717854F9E4E2472EBC7338B3A792D37967BA1978110824352E2BAC27E9",
+  "notes": "Corrige exportação e compartilhamento do Admin/Diagnóstico."
 }
