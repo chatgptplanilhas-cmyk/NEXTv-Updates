@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.5.4",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.4/app-debug.apk",
-  "sha256": "43A491715C58F218793C90FE437341E38EEF604A561775EFA959FEFC53A271DF",
-  "notes": "Ajusta Preview, rail Liquid Black e fluxo de Back em Favoritos."
+  "versionCode": 21,
+  "versionName": "0.5.5",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.5/app-debug.apk",
+  "sha256": "6B1798D2CAF95777803600B2BA5BEF9F6CF78EE57C295F83A391133388806C81",
+  "notes": "Refina preview, sincronização de canal e comportamento do Liquid Black."
 }
