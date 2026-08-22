@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "versionName": "0.5.9.08",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.08/app-debug.apk",
-  "sha256": "82EE588D966C77E769F6A7459E195DECBFF9CC32DA665848C0AA0E7DAF9B95EE",
-  "notes": "Corrige crash no Back causado por callback de animação residual em Favoritos."
+  "versionCode": 34,
+  "versionName": "0.5.9.09",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.09/app-debug.apk",
+  "sha256": "AB85127883746BBE5020EC12EF313405B66C29DD95CCE15B64836ABF360D6C5A",
+  "notes": "Corrige o OK longo em Favoritos para consumir integralmente o gesto e impedir abertura indevida do Player."
 }
