@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.5.7",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.7/app-debug.apk",
-  "sha256": "687FA50E0F566BB7CF54480EB08D5110389B5CB3DA81A97D0D6A21A984F36C75",
-  "notes": "Corrige corte da programação no Preview e estabiliza o fluxo de Back."
+  "versionCode": 24,
+  "versionName": "0.5.8",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.8/app-debug.apk",
+  "sha256": "3DEFE9099C300E366505B00A421F30D9D37A80805715B761F230A6C92BD8C7BD",
+  "notes": "Centraliza navegação D-pad e Back e corrige OK longo para Favoritos."
 }
