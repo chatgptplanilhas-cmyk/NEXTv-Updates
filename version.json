@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.5.2",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.2/app-debug.apk",
-  "sha256": "F3498E47E782DC29B0ED0C533AFC36E83819F73B713D0744B4E8BBE88CD27FE0",
-  "notes": "Refina Favoritos: ordem alfabética, preview automático, EPG no fullscreen e correção do Back."
+  "versionCode": 19,
+  "versionName": "0.5.3",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.3/app-debug.apk",
+  "sha256": "207BCC6B237D05BB08EE4B13C45E240C78E9B5AD88FF092FEA9D4028DD11BC82",
+  "notes": "Refina OSD, rail lateral de Favoritos e navegação Back."
 }
