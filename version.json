@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.5.9.37",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.37/app-debug.apk",
-  "sha256": "76820B6AAF8D116D25F8D36F3E91C57F1EF56D836AEB83B00DF04F4E8EC7D265",
-  "notes": "Home Redesign 01: nova fundação visual da Home e foco inequívoco."
+  "versionCode": 63,
+  "versionName": "0.5.9.38",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.38/app-debug.apk",
+  "sha256": "F10CCE829284B0EF36019BFEBF9FF10EC1AF503002A75A4F594C69F1AEBAB693",
+  "notes": "Home Foundation 02: geometria segura para TV e foco sem expansão."
 }
