@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "0.5.9.35",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.35/app-debug.apk",
-  "sha256": "3D3F64682265D13AD89C2175A7C789AC3FB07B2A70907FE92BD1E64449EBE172",
-  "notes": "Home Pacote 05: CTA corrigido, D-pad horizontal dos rails e foco interno dos cards."
+  "versionCode": 61,
+  "versionName": "0.5.9.36",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.36/app-debug.apk",
+  "sha256": "937F9299BE1C78A317F65ED68054C6CABD128854E1B4727D7D2342173682DDD2",
+  "notes": "Home Pacote 05B: foco interno exclusivo na arte dos cards."
 }
