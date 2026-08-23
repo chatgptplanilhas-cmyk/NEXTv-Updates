@@ -1,7 +1,7 @@
 {
-  "versionCode": 57,
-  "versionName": "0.5.9.32",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.32/app-debug.apk",
-  "sha256": "6B7A01B3BC300F98B8943E52E7EBD219DF02120ED51A45368B6078B297B15D60",
-  "notes": "Home Pacote 03: Séries recentes, relógio/data, botão Assistir e foco refinado."
+  "versionCode": 58,
+  "versionName": "0.5.9.33",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.33/app-debug.apk",
+  "sha256": "89B1024356058E4C76ADB0DE94B2CB32B522CA0DD2313BF311996F7E01412477",
+  "notes": "Home Pacote 04: hero pelo último conteúdo e EPG real para canais."
 }
