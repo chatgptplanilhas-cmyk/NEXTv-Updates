@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.5.9.19",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.19/app-debug.apk",
-  "sha256": "170E6A6BAE9E5269DAD71B285A548797EB38A687D85C85A770F53DC3C0D4A460",
-  "notes": "Corrige o fluxo do Ao Vivo: entrada sem Preview, categorias alteram apenas a lista, navegação nos canais não inicia reprodução e o primeiro OK passa a abrir somente o Preview."
+  "versionCode": 45,
+  "versionName": "0.5.9.20",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.20/app-debug.apk",
+  "sha256": "94F4E486DED254F7E2F8F601052B84EF724BA3399CD913030C159F82C58A012B",
+  "notes": "Microbloco Layout 1: nova tela de abertura institucional NEXTv com arte oficial 16:9. Sem alterações em Home, Player, Favoritos, D-pad, Ao Vivo, Admin/Diagnóstico ou updater."
 }
