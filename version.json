@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "0.5.9.20",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.20/app-debug.apk",
-  "sha256": "94F4E486DED254F7E2F8F601052B84EF724BA3399CD913030C159F82C58A012B",
-  "notes": "Microbloco Layout 1: nova tela de abertura institucional NEXTv com arte oficial 16:9. Sem alterações em Home, Player, Favoritos, D-pad, Ao Vivo, Admin/Diagnóstico ou updater."
+  "versionCode": 46,
+  "versionName": "0.5.9.21",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.21/app-debug.apk",
+  "sha256": "D87D1BDFA73E8407975967ECF59ED3B39AE7D6AA48A608837A4EC44C0C5576EA",
+  "notes": "Microbloco Layout 2: tela de Perfis com Delber e Adicionar, cadastro de novo perfil e persistencia isolada de nome, avatar e perfil ativo. Preserva Tela de Abertura, Home, Favoritos, Player, D-pad, Ao Vivo, Admin/Diagnostico e updater."
 }
