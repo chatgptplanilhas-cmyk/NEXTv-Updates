@@ -1,7 +1,7 @@
 {
-  "versionCode": 63,
-  "versionName": "0.5.9.38",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.38/app-debug.apk",
-  "sha256": "F10CCE829284B0EF36019BFEBF9FF10EC1AF503002A75A4F594C69F1AEBAB693",
-  "notes": "Home Foundation 02: geometria segura para TV e foco sem expansão."
+  "versionCode": 64,
+  "versionName": "0.5.9.39",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.39/app-debug.apk",
+  "sha256": "5E0B9F2834C87F3A61059C71FDE34C5F8A64A84DEFA95395934813B5FEB8415D",
+  "notes": "Home Hero Preview para validação em TV real."
 }
