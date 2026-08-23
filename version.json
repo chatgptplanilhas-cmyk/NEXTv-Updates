@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "0.5.9.25",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.25/app-debug.apk",
-  "sha256": "02CF1A44F542E9E52709F14699CF686761580B84F52FAA8E996C2CC57E122AA8",
-  "notes": "Fluxo de Back refinado: Home retorna para Perfis; Back em Perfis abre a confirmação de saída. Preserva os blocos blindados."
+  "versionCode": 51,
+  "versionName": "0.5.9.26",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.26/app-debug.apk",
+  "sha256": "61BE10D5CA8C52BE8FDC0AB77301EDDDB545A677CC973E4A46208C7EA9FC29FD",
+  "notes": "Diagnóstico de viewport para auditoria responsiva da Home."
 }
