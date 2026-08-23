@@ -1,7 +1,7 @@
 {
-  "versionCode": 49,
-  "versionName": "0.5.9.24",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.24/app-debug.apk",
-  "sha256": "28A95E1C3116AB6B01D6DF7D300444FB481B192CF0E222110BFF5192F361E917",
-  "notes": "Correção isolada da navegação por D-pad na tela de Perfis. Foco inicial em Delber e navegação horizontal entre Delber e Adicionar, preservando os blocos blindados."
+  "versionCode": 50,
+  "versionName": "0.5.9.25",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.25/app-debug.apk",
+  "sha256": "02CF1A44F542E9E52709F14699CF686761580B84F52FAA8E996C2CC57E122AA8",
+  "notes": "Fluxo de Back refinado: Home retorna para Perfis; Back em Perfis abre a confirmação de saída. Preserva os blocos blindados."
 }
