@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "0.5.9.21",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.21/app-debug.apk",
-  "sha256": "D87D1BDFA73E8407975967ECF59ED3B39AE7D6AA48A608837A4EC44C0C5576EA",
-  "notes": "Microbloco Layout 2: tela de Perfis com Delber e Adicionar, cadastro de novo perfil e persistencia isolada de nome, avatar e perfil ativo. Preserva Tela de Abertura, Home, Favoritos, Player, D-pad, Ao Vivo, Admin/Diagnostico e updater."
+  "versionCode": 47,
+  "versionName": "0.5.9.22",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.22/app-debug.apk",
+  "sha256": "BEE68F6E7DA0CC4634132BDDDD9C6370C02BCFFBFCDB4813B73B49A00733B8CF",
+  "notes": "Refino visual de Perfis: avatar por inicial do nome, proporcoes ajustadas, foco dourado mais evidente e card Adicionar mais discreto. Sem alteracoes em Home, Favoritos, Player, Ao Vivo, Back, Admin/Diagnostico ou updater."
 }
