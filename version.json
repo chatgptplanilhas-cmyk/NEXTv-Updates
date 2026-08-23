@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "0.5.9.30",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.30/app-debug.apk",
-  "sha256": "F72269A101DCD39E19FDC38D08178C40E145120D57E049A503C39448FAFFC795",
-  "notes": "Home Pacote 01: logo oficial, Canais, hero ampliado e rails recentes por tipo."
+  "versionCode": 56,
+  "versionName": "0.5.9.31",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.31/app-debug.apk",
+  "sha256": "F86B526697AE2A7A5C5995A5A038504FB1E95338AB9EBEA6103276D3DB64220D",
+  "notes": "Home Pacote 02: foco refinado e títulos abaixo dos cards recentes."
 }
