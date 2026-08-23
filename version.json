@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.5.9.26",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.26/app-debug.apk",
-  "sha256": "61BE10D5CA8C52BE8FDC0AB77301EDDDB545A677CC973E4A46208C7EA9FC29FD",
-  "notes": "Diagnóstico de viewport para auditoria responsiva da Home."
+  "versionCode": 52,
+  "versionName": "0.5.9.27",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.27/app-debug.apk",
+  "sha256": "7E0C5E1FFD3C98169A4BE6A85A9EBE796732D1E1B79507FB7CE1DD9B4709CC0C",
+  "notes": "Relatório QR com métricas de viewport para diagnóstico responsivo da Home."
 }
