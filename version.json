@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "0.5.9.31",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.31/app-debug.apk",
-  "sha256": "F86B526697AE2A7A5C5995A5A038504FB1E95338AB9EBEA6103276D3DB64220D",
-  "notes": "Home Pacote 02: foco refinado e títulos abaixo dos cards recentes."
+  "versionCode": 57,
+  "versionName": "0.5.9.32",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.32/app-debug.apk",
+  "sha256": "6B7A01B3BC300F98B8943E52E7EBD219DF02120ED51A45368B6078B297B15D60",
+  "notes": "Home Pacote 03: Séries recentes, relógio/data, botão Assistir e foco refinado."
 }
