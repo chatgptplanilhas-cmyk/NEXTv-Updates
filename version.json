@@ -1,7 +1,7 @@
 {
-  "versionCode": 53,
-  "versionName": "0.5.9.28",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.28/app-debug.apk",
-  "sha256": "73F134D0AA0AA791E30479CAC39A8DAADC77D61309AB092FACC322574F773111",
-  "notes": "Refinamento visual da Home com redução controlada de densidade, hero, topo e cards."
+  "versionCode": 54,
+  "versionName": "0.5.9.29",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.29/app-debug.apk",
+  "sha256": "7AFD58DC9322E01BDCA2277EEE24DE3880555D53D860E608D0CAEAE57EF162D7",
+  "notes": "Refinamento visual da Home, Diagnóstico e ícone oficial."
 }
