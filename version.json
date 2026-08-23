@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.5.9.33",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.33/app-debug.apk",
-  "sha256": "89B1024356058E4C76ADB0DE94B2CB32B522CA0DD2313BF311996F7E01412477",
-  "notes": "Home Pacote 04: hero pelo último conteúdo e EPG real para canais."
+  "versionCode": 59,
+  "versionName": "0.5.9.34",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.34/app-debug.apk",
+  "sha256": "81CA0258E0D714FE2AD09A1DB29455B8D0E9390E5080BDDF1A20A20EE28F3023",
+  "notes": "Home Pacote 05: CTA corrigido, D-pad horizontal dos rails e foco interno dos cards."
 }
