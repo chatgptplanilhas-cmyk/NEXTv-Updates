@@ -1,7 +1,7 @@
 {
   "versionCode": 91,
-  "versionName": "0.5.9.66",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.66/app-debug.apk",
-  "sha256": "B4CB59E8A3B3FB7F86DBB73C3A9076EFB67D0021FB3F631C7F2FF4ED778F1776",
+  "versionName": "0.5.9.67",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.67/app-debug.apk",
+  "sha256": "5ACC2E562C9E3FD79705701A1B4C94629800D11DBC2F3F3C03051BD79820D897",
   "notes": "Fullscreen EPG Cleanup 01: OSD mais limpo, badge CANAIS, timeline com inicio/fim e auto-hide preservado."
 }
