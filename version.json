@@ -1,7 +1,7 @@
 {
-    "versionCode":  75,
-    "versionName":  "0.5.9.50",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.50/app-debug.apk",
-    "sha256":  "C25954CE7E29D5383A7F76D17D5B35187A39B968070E3BCA33082AE5DA39F650",
-    "notes":  "Home Hero Size 02: Preview 46%, 16:9 preservado e composição vertical reajustada."
+    "versionCode":  76,
+    "versionName":  "0.5.9.51",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.51/app-debug.apk",
+    "sha256":  "9ED11C6E725093141C4AD08823FA55FC4842E9EF0B71CD614830E9305F53BC5C",
+    "notes":  "Home VOD Poster Proportion 01: pôsteres 2:3, título externo e foco somente no pôster."
 }
