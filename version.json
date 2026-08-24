@@ -1,7 +1,7 @@
 {
-  "versionCode": 81,
-  "versionName": "0.5.9.56",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.56/app-debug.apk",
-  "sha256": "D6CE25E9C0DF69868FB8B4C6494743C2415961830D323DEEB51749D463E88B47",
-  "notes": "Home Recent Clean 01: remove fade da Home inteira e evita reconstrução da tela durante troca de canal recente."
+  "versionCode": 82,
+  "versionName": "0.5.9.57",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.57/app-debug.apk",
+  "sha256": "130C34DA198E3B14F7A3F0B478EDC285C7980DC33C1E5D0B16FE06E51B9CFD3E",
+  "notes": "EPG Progress Accuracy 01 + Live Logo Padding 01: progresso do EPG atualizado periodicamente e respiro interno dos logos dos canais recentes ajustado para 8dp."
 }
