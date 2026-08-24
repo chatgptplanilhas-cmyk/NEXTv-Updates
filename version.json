@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "0.5.9.65",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.65/app-debug.apk",
-  "sha256": "32353CC0760DE54AFF80E9C7469956FDDAE21E39FF0CAF35E0E2AA05DCB751CD",
-  "notes": "Home Fullscreen EPG 01: nome do canal, Agora, Proximo e linha do tempo no fullscreen, com timer independente da Home."
+  "versionCode": 91,
+  "versionName": "0.5.9.66",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.66/app-debug.apk",
+  "sha256": "B4CB59E8A3B3FB7F86DBB73C3A9076EFB67D0021FB3F631C7F2FF4ED778F1776",
+  "notes": "Fullscreen EPG Cleanup 01: OSD mais limpo, badge CANAIS, timeline com inicio/fim e auto-hide preservado."
 }
