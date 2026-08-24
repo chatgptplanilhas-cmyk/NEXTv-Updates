@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "0.5.9.61",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.61/app-debug.apk",
-  "sha256": "8486811B5255636245E7D5F5F7F019B6949C9EF11ED1CFB00A9CBD26F2F1176D",
-  "notes": "Home Hero Title Sync 01: titulo do canal acompanha o Preview e o EPG ativos."
+  "versionCode": 87,
+  "versionName": "0.5.9.62",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.62/app-debug.apk",
+  "sha256": "568F9305F4296D64867FA8B6590EDF50325CA6AAAC348FA05A9BD7CC14421F93",
+  "notes": "Home EPG Selection 01: em sobreposicao de programas, a Home prioriza o programa atual com inicio mais recente."
 }
