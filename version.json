@@ -1,7 +1,7 @@
 {
-    "versionCode":  66,
-    "versionName":  "0.5.9.41",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.41/app-debug.apk",
-    "sha256":  "85092FAE38B6DD4C53DD879572C49C10EF913AC47779827A0FABDB1EE5F43E9F",
-    "notes":  "Home Preview Microbloco 01 para teste em TV real."
+    "versionCode":  67,
+    "versionName":  "0.5.9.42",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.42/app-debug.apk",
+    "sha256":  "8F1ADCE27387E4828A20A57986027953E1CB7B4C47922C6A4C76A57F11BF2630",
+    "notes":  "Home Hero Proportion 01: Preview responsivo em 16:9."
 }
