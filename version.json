@@ -1,7 +1,7 @@
 {
-  "versionCode": 89,
-  "versionName": "0.5.9.64",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.64/app-debug.apk",
-  "sha256": "CC651B7325B0F0A413AE7847515985AE3B37CB1C2B6C888444745738FDA4692C",
-  "notes": "Home EPG Progress Timer 01: barra do EPG avanca automaticamente a cada 30 segundos."
+  "versionCode": 90,
+  "versionName": "0.5.9.65",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.65/app-debug.apk",
+  "sha256": "32353CC0760DE54AFF80E9C7469956FDDAE21E39FF0CAF35E0E2AA05DCB751CD",
+  "notes": "Home Fullscreen EPG 01: nome do canal, Agora, Proximo e linha do tempo no fullscreen, com timer independente da Home."
 }
