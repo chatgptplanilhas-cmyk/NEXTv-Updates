@@ -1,7 +1,7 @@
 {
-    "versionCode":  73,
-    "versionName":  "0.5.9.48",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.48/app-debug.apk",
-    "sha256":  "C8D1C5D5051D8FDDECFCD50531208F0CF50BC0D566DBB36B66153929925C8288",
-    "notes":  "Home Recent Motion 01B."
+    "versionCode":  74,
+    "versionName":  "0.5.9.49",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.49/app-debug.apk",
+    "sha256":  "AB68B34AD33D736C25DD7AB7385BDEFB0DB38C382D24105B0AF56800A5BD22D9",
+    "notes":  "Home Visual: 5 canais recentes, foco somente no card e indicador do menu superior."
 }
