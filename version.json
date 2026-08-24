@@ -1,7 +1,7 @@
 {
-    "versionCode":  67,
-    "versionName":  "0.5.9.42",
-    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.42/app-debug.apk",
-    "sha256":  "8F1ADCE27387E4828A20A57986027953E1CB7B4C47922C6A4C76A57F11BF2630",
-    "notes":  "Home Hero Proportion 01: Preview responsivo em 16:9."
+    "versionCode":  68,
+    "versionName":  "0.5.9.43",
+    "apkUrl":  "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.43/app-debug.apk",
+    "sha256":  "26FE8943D6BE695DA826D055FEB61C8DCCFBD2FA3BAB3D2A634A607946BEAF68",
+    "notes":  "Home Preview Continuity 02: fullscreen com continuidade do Preview."
 }
