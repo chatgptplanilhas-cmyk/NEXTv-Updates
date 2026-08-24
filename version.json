@@ -2,6 +2,6 @@
   "versionCode": 88,
   "versionName": "0.5.9.63",
   "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.63/app-debug.apk",
-  "sha256": "3B59EBB3CAE9282732AD76C39925539F945FB3BC84496E6559DFCA78A59966A7",
-  "notes": "Home EPG Progress Timer 01 + Home Live Card Background 01."
+  "sha256": "37C5923827843921DDF1732B909C5F89A056747F63D26C9F877DD5A50780EF83",
+  "notes": "Home EPG Progress Timer 01: barra de progresso do EPG acompanha a programação automaticamente a cada 30 segundos."
 }
