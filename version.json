@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "0.5.9.57",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.57/app-debug.apk",
-  "sha256": "130C34DA198E3B14F7A3F0B478EDC285C7980DC33C1E5D0B16FE06E51B9CFD3E",
-  "notes": "EPG Progress Accuracy 01 + Live Logo Padding 01: progresso do EPG atualizado periodicamente e respiro interno dos logos dos canais recentes ajustado para 8dp."
+  "versionCode": 83,
+  "versionName": "0.5.9.58",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.58/app-debug.apk",
+  "sha256": "BC791A57642CE8C55DED3F3BFE15877E68D79279823EB761B6FC648B763CB596",
+  "notes": "Home EPG Channel Sync 01: EPG e barra passam a acompanhar o canal realmente ativo no Hero."
 }
