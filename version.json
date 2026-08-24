@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "0.5.9.39",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.39/app-debug.apk",
-  "sha256": "5E0B9F2834C87F3A61059C71FDE34C5F8A64A84DEFA95395934813B5FEB8415D",
-  "notes": "Home Hero Preview para validação em TV real."
+  "versionCode": 65,
+  "versionName": "0.5.9.40",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.40/app-debug.apk",
+  "sha256": "ED1320D20222D3646BFEF3C33A9130F054600983984821B6143902D86F5B1979",
+  "notes": "Home Hero Preview Lifecycle 02 para teste em TV real."
 }
