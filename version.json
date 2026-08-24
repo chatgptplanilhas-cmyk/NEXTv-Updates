@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.5.9.55",
-  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.55/app-debug.apk",
-  "sha256": "06CF82428F642413BB4A524B854CCD833475AA2171D7E23C5AF20FAB6A523136",
-  "notes": "Home Preview Reuse 01: reutiliza o ExoPlayer na troca de canal recente, preserva o frame anterior e impede reordenação imediata da rail."
+  "versionCode": 81,
+  "versionName": "0.5.9.56",
+  "apkUrl": "https://github.com/chatgptplanilhas-cmyk/NEXTv-Updates/releases/download/v0.5.9.56/app-debug.apk",
+  "sha256": "D6CE25E9C0DF69868FB8B4C6494743C2415961830D323DEEB51749D463E88B47",
+  "notes": "Home Recent Clean 01: remove fade da Home inteira e evita reconstrução da tela durante troca de canal recente."
 }
